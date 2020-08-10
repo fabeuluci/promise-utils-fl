@@ -1,0 +1,14 @@
+{
+  "name": "promise-utils-fl",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/promise-utils-fl.git"
+  },
+  "main": "out/index.js",
+  "typings": "out/index.d.ts"
+}
